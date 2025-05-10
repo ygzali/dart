@@ -1,0 +1,22 @@
+void main()  {
+    print("merhaba dünya");
+  
+  //değişkenler ve veri türleri
+  //int -->> tam sayılar = 10
+  //double -->> ondalık sayılar  =10.20
+  //string -->> yazılar = "merhaba dünya"
+  //bool: doğru/yanlış ("true/false")
+  
+  //kod örneği
+  String isim = "yagız alı";
+  int yas=12;
+  print("$isim,$yas yasında");
+
+
+   int say1 = 30;
+   double  say2 = 0.5;
+   double toplam = say1 + say2;
+
+   print("sonuc $toplam");
+}
+ 
